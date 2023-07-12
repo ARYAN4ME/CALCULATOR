@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.calc{
+    background: black;
+    width: 350px;
+    height: 540px;
+    border-radius: 10px;
+    margin: 100px auto;
+}
+#answer{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    background: black;
+    outline: none;
+    color: white;
+    padding: 10px;
+    font-size: 35px;
+    width: 329px;
+    height: 60px;
+    text-align: right;
+    border: none
+}
+
+
+Input{
+    background: #161515;
+    height: 80px;
+    width: 80px;
+    color: white;
+    font-weight: 500;
+    font-size: 30px;
+    margin: 100px;
+    border-radius: 10px;
+    float:left;
+    outline: none;
+    
+}
+.btn1{
+    width: 162px;
+}
+.btn2{
+    color: white;
+    background: rgb(59, 85, 217);
+}
